@@ -1,0 +1,139 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+
+.footer{
+  background-color: #007BFF;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+  color:floralwhite;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  
+}
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #9575CD ;
+  color:floralwhite;
+}
+
+.spinner{
+  z-index: 999;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 50px;
+  height: 500px;
+}
+
+address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+}
+
+.navbar-dark {
+  background-color: #512DA8;
+}
+
+a {
+  color: rgb(14, 13, 12);
+}
+
+.breadcrumb {
+  background-color: rgb(255, 255, 255);
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: grey;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: grey;
+}
+
+.carousel-caption {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.carousel-indicators .active{
+  background-color: #000000;
+}
+
+.carousel-indicators li{
+  background-color: grey;
+
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+#error {
+  color: rgb(255,0,0);
+}
+
+#cart{
+  color:rgb(128, 189, 255)
+}
+
+#cartTotal{
+  background-color: rgb(199, 222, 230);
+  padding:20px 20px 0px 20px;
+  margin:0px 0px 20px 0px;;
+}
+
+#cartTotalBtn{
+  padding:5px 0px 3px 0px;
+}
+
+#shop{
+  color: #1283fc;
+}
+
+@media screen and (max-width: 768px) {
+  .carousel-caption {
+    display: block
+  }
+}
