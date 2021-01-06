@@ -27,7 +27,7 @@ const About = () => {
                     <Col sm="7" xs="12">
                         <br/>
                         <h4>About Us </h4>
-                        Established in 1974, Daily Grocery started off as local mini-mart store in with just 500sqft. We now have 10 stores today.
+                        Established in 1974, Daily Grocery started off as local mini-mart store in with just 500sqft. We now have 100 stores today.
                         Our retail stores are primarily located in the heartlands of Singapore. These include a wide assortment of live, fresh and chilled produce, such as seafood, meat,
                         fruits and vegetables.
                     </Col>
