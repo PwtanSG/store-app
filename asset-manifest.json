@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/store-app/static/css/main.8be0723a.chunk.css",
+    "main.js": "/store-app/static/js/main.ea160d9e.chunk.js",
+    "main.js.map": "/store-app/static/js/main.ea160d9e.chunk.js.map",
+    "runtime-main.js": "/store-app/static/js/runtime-main.2e58ed00.js",
+    "runtime-main.js.map": "/store-app/static/js/runtime-main.2e58ed00.js.map",
+    "static/css/2.c2f5528d.chunk.css": "/store-app/static/css/2.c2f5528d.chunk.css",
+    "static/js/2.84f8af28.chunk.js": "/store-app/static/js/2.84f8af28.chunk.js",
+    "static/js/2.84f8af28.chunk.js.map": "/store-app/static/js/2.84f8af28.chunk.js.map",
+    "static/js/3.771bcde3.chunk.js": "/store-app/static/js/3.771bcde3.chunk.js",
+    "static/js/3.771bcde3.chunk.js.map": "/store-app/static/js/3.771bcde3.chunk.js.map",
+    "index.html": "/store-app/index.html",
+    "static/css/2.c2f5528d.chunk.css.map": "/store-app/static/css/2.c2f5528d.chunk.css.map",
+    "static/css/main.8be0723a.chunk.css.map": "/store-app/static/css/main.8be0723a.chunk.css.map",
+    "static/js/2.84f8af28.chunk.js.LICENSE.txt": "/store-app/static/js/2.84f8af28.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/store-app/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e58ed00.js",
+    "static/css/2.c2f5528d.chunk.css",
+    "static/js/2.84f8af28.chunk.js",
+    "static/css/main.8be0723a.chunk.css",
+    "static/js/main.ea160d9e.chunk.js"
+  ]
+}
