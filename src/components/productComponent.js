@@ -67,7 +67,7 @@ class Products extends Component {
   changeSortSelected(val, evt) {
     evt.preventDefault();                   //need to prevent evt error, if not cannot work
     this.setState({ sortSelected: val });
-    console.log("Sort selected:" + val)
+    //console.log("Sort selected:" + val)
   }
 
 
