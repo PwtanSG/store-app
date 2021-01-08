@@ -42,8 +42,7 @@ class Header extends Component {
   //methods to get modal form inputs
   handleLogin(event) {
     this.toggleLoginModal();           //close login modal
-    //alert("Username: " + this.username.value + " Password: " + this.password.value
-    //  + " Remember: " + this.remember.checked);
+    //alert("Username: " + this.username.value + " Password: " + this.password.value + " Remember: " + this.remember.checked);
     if ((this.username.value === 'spwmf') && (this.password.value === "password")) {
       sessionStorage.setItem('user', this.username.value);
     }
